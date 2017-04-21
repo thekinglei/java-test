@@ -1,0 +1,1 @@
+通过request等java包请求gitlab api 查询操作git仓库
