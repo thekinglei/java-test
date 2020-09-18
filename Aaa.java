@@ -11,7 +11,7 @@ public class Aaa
 
     public static String show(String name, int age){
         System.out.println("args is :name,age");
-        System.out.println("name is:"+name);
+        System.out.println("name   is:"+name);
         System.out.println("age is :"+age);
         return "func1";
     }
